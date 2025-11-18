@@ -116,4 +116,3 @@ Este proyecto es de código abierto y está disponible para uso educativo y pers
 ---
 
 ¡Disfruta explorando y descubriendo nuevas películas! 🎬✨
-
